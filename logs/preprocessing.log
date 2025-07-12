@@ -1,0 +1,6 @@
+2025-07-12 23:16:00,186-preprocessing-DEBUG-data loaded successfully
+2025-07-12 23:16:00,189-preprocessing-DEBUG-unwanted columns removed successfully
+2025-07-12 23:16:00,190-preprocessing-DEBUG-features and labels separeted.
+2025-07-12 23:16:00,256-preprocessing-DEBUG-features and labels encoded
+2025-07-12 23:16:00,256-preprocessing-DEBUG-data processe is successfull
+2025-07-12 23:16:00,259-preprocessing-DEBUG-x_train and y_trai saved
